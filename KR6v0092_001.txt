@@ -1,17 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:42.867215
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:13
 #+TITLE: 佛性觀修善法
 #+PROPERTY: CBETA_ID W09n0072
 #+PROPERTY: ID KR6v0092
 #+PROPERTY: SOURCE Buddhist Texts not contained in the Tripitaka Vol. 09, No. 072
 #+PROPERTY: VOL 09
 #+PROPERTY: BASEEDITION W
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6v0092_W_001-0017a> 
 #+PROPERTY: JUAN 1
 ¶
 
-題解¶
+* 佛性觀修善法¶
 ¶
 整理者　西本照真¶
 ¶
@@ -54,7 +54,7 @@
 ¶
 ¶
 
-錄文¶
+* 〔錄文〕¶
 ¶
 
 （前殘）¶
