@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:42.867215
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:13
 #+TITLE: 佛性觀修善法
 #+PROPERTY: CBETA_ID W09n0072
 #+PROPERTY: ID KR6v0092
@@ -11,7 +11,7 @@
 #+PROPERTY: JUAN 1
 ¶
 
-題解¶
+* 題解¶
 ¶
 整理者　西本照真¶
 ¶
@@ -54,7 +54,7 @@
 ¶
 ¶
 
-錄文¶
+* 錄文¶
 ¶
 
 （前殘）¶
